@@ -1,0 +1,183 @@
+{
+    "Teams": [
+        {
+            "Name": "Atlanta Hawks",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Boston Celtics",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Brooklyn Nets",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Charlotte Hornets",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Chicago Bulls",
+            "Wins": 0,
+            "Losses": 0
+        },
+        
+        {
+            "Name": "Cleveland Cavaliers",
+            "Wins": 0,
+            "Losses": 0
+        },
+        
+        {
+            "Name": "Dallas Mavericks",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Denver Nuggets",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Detroit Pistons",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Golden State Warriors",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Houston Rockets",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Indiana Pacers",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Los Angeles Clippers",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Los Angeles Lakers",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Memphis Grizzlies",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Miami Heat",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Milwaukee Bucks",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Minnesota Timberwolves",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "New Orleans Pelicans",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "New York Knicks",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Oklahoma City Thunder",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Orlando Magic",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Philadelphia 76ers",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Phoenix Suns",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Portland Trail Blazers",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Sacramento Kings",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "San Antonio Spurs",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Toronto Raptors",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Utah Jazz",
+            "Wins": 0,
+            "Losses": 0
+        },
+
+        {
+            "Name": "Washington Wizards",
+            "Wins": 0,
+            "Losses": 0
+        }
+    ]
+}

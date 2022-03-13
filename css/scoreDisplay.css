@@ -1,0 +1,29 @@
+
+
+.scoresContainer {
+    width: 50%;
+    margin: auto;
+}
+
+.scoreBoxContainer {
+    border: 3px solid black;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 600px) and (min-device-width: 200px) {
+    .scoreBoxContainer {
+        max-width: 600px;
+    }
+
+    .scoreBoxContainer p {
+        font-size: 6px;
+    }
+    
+    .scoreBoxContainer h5 {
+        font-size: 8px;
+    }
+
+    .scoreBoxContainer h2 {
+        font-size: 12px;
+    }
+}
